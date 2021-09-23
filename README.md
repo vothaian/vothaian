@@ -1,4 +1,4 @@
-# Welcome to my git !!!
+# Welcome to my Git !!!
 
 👋 Hi, I’m An
 
